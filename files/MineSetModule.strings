@@ -1,0 +1,63 @@
+/*
+ files/MineSetModule.strings
+ Pods
+ Created by liguanglei on 2023/3/29.
+
+*/
+
+"mine_settings_title" = "设置";
+"mine_settings_meessage_notification" = "新消息通知";
+"mine_settings_account_security" = "账号安全";
+"mine_settings_account_privacy" = "隐私设置";
+"mine_settings_teenager_model" = "青少年模式";
+"mine_settings_block_list" = "黑名单";
+"mine_settings_feed_back" = "意见反馈";
+"mine_settings_clean_cache" = "清空缓存";
+"mine_settings_clean_cache_tips" = "确定清空缓存吗?";
+"mine_settings_clean_cache_completed" = "清理完成";
+"mine_settings_about_us" = "关于我们";
+"mine_settings_exit_login" = "退出当前账号";
+"mine_settings_exit_login_tips" = "退出账号将无法收发消息，发布瞬间等互动行为，确定退出账号吗？";
+"mine_settings_exit_login_completed" = "退出成功";
+"mine_settings_meessage_receive_notify" = "接收新消息通知";
+"mine_settings_meessage_notify_sound" = "通知声音";
+"mine_settings_meessage_notify_vibrate" = "通知震动";
+"mine_settings_meessage_notify_detail" = "通知显示消息详情";
+"mine_settings_meessage_background_running" = "后台运行设置";
+"mine_settings_meessage_send_sound" = "发出私信声音";
+"mine_settings_account_phone" = "手机号";
+"mine_settings_account_phone_change" = "更换手机号";
+"mine_settings_account_unbound" = "未绑定";
+"mine_settings_account_bound" = "已绑定";
+"mine_settings_account_unbound_help_tips" = "你可联系客服解绑手机号，客服联系方式：${mConnectEmail}";
+"mine_settings_account_binding" = "绑定";
+"mine_settings_account_unbind" = "解绑";
+"mine_settings_account_binding_tips" = "账号绑定只用于快速登陆，未经你允许，配配绝对不会用作其他用途！";
+"mine_settings_account_cancellation_tips" = "注销账号（慎用）";
+"mine_settings_account_highlight_caution_tips" = "（慎用）";
+"mine_settings_account_cancellation_reason" = "选择注销原因";
+"mine_settings_account_cancellation_reason_duplicate_account" = "这是多余账号";
+"mine_settings_account_cancellation_reasonprivacy_considerations" = "安全/隐私考虑";
+"mine_settings_account_cancellation_reason_dislike" = "不喜欢配配";
+"mine_settings_account_privacy_permission" = "权限隐私";
+"mine_settings_account_privacy_permission_device" = "允许获取设备信息";
+"mine_settings_account_privacy_permission_device_desc" = "获取设备信息，可以保障你的账号及信息安全";
+"mine_settings_account_privacy_permission_location" = "允许访问位置信息";
+"mine_settings_account_privacy_permission_location_desc" = "开启定位权限，方便匹配附近的人";
+"mine_settings_account_privacy_permission_camera" = "允许使用相机";
+"mine_settings_account_privacy_permission_camera_desc" = "开启相机使用权限，方便使用照片拍摄等功能";
+"mine_settings_account_privacy_permission_microphone" = "允许访问麦克风权限";
+"mine_settings_account_privacy_permission_microphone_desc" = "开启麦克风权限，方便录制语音，体验连麦等功能";
+"mine_settings_teenager_model_desc" = "在青少年模式下，我们选择了一批适合青少年观看的内容，且无法进行充值，购买，评论互动等操作，发现，配配等功能也无法使用。";
+"mine_settings_teenager_model_opening_explain" = "每次开启，关闭青少年模式都需要输入监管密码进行设置";
+"mine_settings_teenager_model_start" = "开启青少年模式";
+"mine_settings_teenager_model_turn_off" = "关闭青少年模式";
+"mine_settings_teenager_model_set_psw" = "设置操作密码";
+"mine_settings_teenager_model_enter_psw" = "输入操作密码";
+"mine_settings_teenager_model_confirm_psw" = "确认操作密码";
+"mine_settings_block_list_empty_tips" = "你暂时还没有黑名单哦";
+"mine_settings_feedback_report" = "举报页面";
+"mine_settings_feedback_report_reason_text_title" = "填写详细举报原因（必填）";
+"mine_settings_feedback_report_reason_plz_select" = "请选择举报类型";
+"mine_settings_feedback_report_reason_plz_enter" = "请输入举报原因";
+"mine_settings_feedback_submitted_successfully" = "提交成功";

@@ -1,0 +1,57 @@
+/*
+ files/PostModule.strings
+ Pods
+ Created by liguanglei on 2023/3/29.
+
+*/
+
+"dynamic_all_comments" = "所有评论";
+"dynamic_cancel_sticky_top_success" = "取消置顶成功";
+"dynamic_sticky_top_success" = "置顶成功";
+"dynamic_cannot_click" = "暂未开放";
+"dynamic_click_to_join_exercise" = "点击立即参加活动";
+"dynamic_click_to_public" = "点击发布";
+"dynamic_confirm_to_delete_comment_forever" = "是否删除此评论，删除后无法找回";
+"dynamic_confirm_to_delete_dynamic_forever" = "是否删除此动态，删除后无法找回";
+"dynamic_comment_click_reply_longclick_report" = "点击评论可回复，长按评论可举报";
+"dynamic_comment_deleted" = "此评论已被删除";
+"dynamic_commented_on_something_format" = "评论了$typeStr:${item.content}";
+"dynamic_detail" = "动态详情";
+"dynamic_square" = "动态广场";
+"dynamic_empty_square_need_you" = "空荡荡的广场需要你的故事来点缀";
+"dynamic_error_params" = "参数错误,请重试";
+"dynamic_expand_more_replies" = "展开更多回复";
+"dynamic_expand_some_replies_format" = "展开%s条回复";
+"dynamic_follow_some_topics" = "快去关注一些话题吧";
+"dynamic_follow_you" = "关注了你";
+"dynamic_followed_topics" = "已关注话题：";
+"dynamic_go_comment_for_nobody" = "还没有人评论过，快来评论吧";
+"common_hard_to_loading" = "奔跑加载中...";
+"dynamic_history_message_splite" = "— 历史消息 —";
+"dynamic_hour" = "${difTime / 60 / 60}小时";
+"dynamic_interact_message" = "互动消息";
+"dynamic_join_in_discussion" = "参与讨论";
+"dynamic_somebody_discuss_just_now" = "刚刚有人参与讨论话题";
+"dynamic_liked_something" = "赞了$typeStr";
+"dynamic_more_topics" = "#更多话题";
+"dynamic_newest" = "最新";
+"dynamic_nobody_interact_your_creation" = "还没有人给你的作品互动";
+"dynamic_nobody_reply_public_dynamic_improve" = "没人回应？发条动态曝光量+300";
+"dynamic_notice_for_dynamic_sticky_top" = "同一时间只能置顶一条动态哦，\n确定置顶这条动态吗？";
+"dynamic_notice_share_your_life_after_read" = "看完别人的生活,也来分享一下你的生活吧";
+"dynamic_notice_share_your_wonderful_moment" = "别人的生活精彩如斯,也来分享你的精彩吧";
+"dynamic_public_dynamic" = "发布动态";
+"dynamic_public_dynamic_for_this_topic" = "快来发动态，成为第一个吃螃蟹的人吧\", \"该话题竟然是空的！";
+"dynamic_recently_someone_discuss_topic" = "%s前有人参与讨论话题";
+"dynamic_replied_on_something_format" = "回复了$typeStr:${item.content}";
+"dynamic_reply_format" = "回复$atOtherUserName：$commentContent";
+"dynamic_same_city" = "同城";
+"dynamic_some_read" = "%s浏览";
+"dynamic_somebody_join_in_discussion" = "${numbs}人正在讨论";
+"dynamic_square_home_page" = "广场首页";
+"dynamic_the_follow_topics" = "关注的话题";
+"dynamic_topic_square" = "话题广场";
+"dynamic_yesterday_time" = "昨天 HH:mm";
+"dynamic_your_comment" = "你的评论";
+"dynamic_your_dynamics" = "你的动态";
+"dynamic_your_story_topic_format" = "你的故事《${item.content}》";

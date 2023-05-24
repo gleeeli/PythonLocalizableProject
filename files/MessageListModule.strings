@@ -1,0 +1,57 @@
+/*
+ files/MessageListModule.strings
+ Pods
+ Created by liguanglei on 2023/3/29.
+
+*/
+
+"message_list_address" = "通讯录";
+"message_list_message" = "消息";
+"message_list_synchronizing" = "消息同步中，请稍后查看";
+"message_list_should_login" = "请登录后操作";
+"message_list_end" = "结束并退出";
+"message_list_istop" = "置顶";
+"message_list_cancel_istop" = "取消置顶";
+"message_list_delete_quit" = "删除并退出";
+"message_list_nofriend_tip" = "你还没有好友，可以主动一点哦~";
+"message_list_close_moment" = "确认要关闭瞬间吗？";
+"message_list_receive_newbarrage" = "收到新的弹幕";
+"message_list_miss_message" = "近期有%s条消息与你擦肩而过";
+"message_list_miss_starlight" = "近期有%s个星光与你擦肩而过了";
+"message_list_warm_prompt" = "温馨提示";
+"message_list_conversation_expireTip" = "三天内未回复的私信会话将失效，届时你将无法查看消息内容。珍惜每一次遇见，记得回复哦~";
+"message_list_draft" = "草稿";
+"message_list_retry_send" = "重发";
+"message_list_voice" = "语音";
+"message_list_receive_gift" = "收到礼物";
+"message_list_send_gift" = "送出礼物";
+"message_list_at_yourself" = "有人@你";
+"message_list_urgency" = "紧急";
+"message_list_any_message" = "%s条新消息";
+"message_list_follow_me" = "关注我";
+"message_list_my_follow" = "我的关注";
+"message_list_announcer_pi" = "广播员小皮";
+"message_list_activity_qiaoqiao" = "活动委员乔乔";
+"message_list_query_tips" = "有疑问可以点这里哦～";
+"message_list_statistics_�conversations" = "共有%s个会话";
+"message_list_barrage_message" = "弹幕消息";
+"message_list_invite_friend" = "邀请好友";
+"message_list_write_invite" = "请填写邀请码";
+"message_list_invite_tips" = "下载软件后的%s天内可以输入邀请码，超过时间不能输入";
+"message_list_receive_gold" = "你已成功领取%s金币";
+"message_list_verify_notPass" = "校验未通过";
+"message_list_difficulty_tips" = "遇到困难睡大觉";
+"message_list_search_users_empty" = "被难倒了，查无此人哦，换个词试试吧~";
+"message_list_unfollow" = "确认要取消关注吗";
+"message_list_follow_success" = "关注成功";
+"message_list_send_invite" = "已发出邀请";
+"message_list_unFollow_success" = "取消关注成功";
+"message_list_follow_each_success" = "回粉成功";
+"message_list_search" = "搜索";
+"message_list_my_peipei" = "我的配配号";
+"message_list_gold" = "%s金币";
+"message_list_copy_success" = "复制成功，快发送给你的好友吧~";
+"message_list_my_follows" = "我的关注";
+"message_list_interaction_lists" = "互动消息";
+"message_list_followed" = "关注了";
+"message_list_liked" = "赞了你的";
